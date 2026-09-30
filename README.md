@@ -4,8 +4,6 @@ This repository holds my spatial history project for the Interconnected Places L
 
 ## About this project
 
-*(Replace this with a sentence or two about your own place: what it is, the time period, and what its main connections are.)*
-
 This project starts at the city of Pittsburgh, exploring its unique geographical challenges and how it as a city approached building infrastructure
 & architecture. From there, I connect Pittsburgh to the other major cities on the river - Louisville, Cincinnati, Parkersburg - and connect them together
 by analyzing housing trends in the region, national trends (such as urban renewal & redlining), and shared histories.
